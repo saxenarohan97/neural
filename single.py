@@ -1,3 +1,5 @@
+# A single neuron which can learn simple functions like AND, OR, etc.
+
 import tensorflow as tf
 
 x = [[[0.], [0.]], [[0.], [1.]], [[1.], [0.]], [[1.], [1.]]]
